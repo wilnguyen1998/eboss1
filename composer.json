@@ -15,7 +15,7 @@
 
     "autoload": {
         "psr-4": {
-            eboss\\": "src/"
+            "eboss\\": "src/"
         }
     }
 }
