@@ -7,7 +7,6 @@
             "email": "wilnguyen1998@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
     "require": {
       "ext-simplexml": "*",
       "ext-sqlsrv": "*"
