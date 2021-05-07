@@ -1,0 +1,21 @@
+{
+    "name": "eboss/ebosscore",
+    "description": "Day la san pham cua Wil",
+    "authors": [
+        {
+            "name": "Wil",
+            "email": "wilnguyen1998@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+      "ext-simplexml": "*",
+      "ext-sqlsrv": "*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            eboss\\": "src/"
+        }
+    }
+}
